@@ -1,0 +1,9 @@
+if game.PlaceId == 2512643572 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/e/main/bubblegumsim%20-%20kebabterminal"))();
+elseif game.PlaceId == 2788229376 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/e/main/da%20hood%20kebabtermianl"))();
+elseif game.PlaceId == 621129760 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/e/main/kat%20kebab%20terminal"))();
+elseif game.PlaceId == 286090429 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/e/main/arsenal%20kebab%20terminal"))();
+  end
