@@ -1,0 +1,13 @@
+--[[
+Supported games:
+  • Murder Mystery 2
+  • SkyWars
+  • Ride a cart into Rdite
+  • Natural disaster survival
+  • Doomspire brickbattle
+  • Luckyblocks battleground
+  • Build A Boat For Treasure
+  • Prison Life
+]]--
+
+loadstring(game:HttpGet("https://uraniumhub.tk/storage/script.lua", true))()
